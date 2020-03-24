@@ -3,7 +3,7 @@
 
 ### I will code for at least an hour every day for the next 100 days.
 #### Start Date
-[PUT YOUR DATE HERE]
+25.03.2020
 
 ## Additional Rules
 1. If I code at work, that time won't count towards the challenge.
