@@ -8,7 +8,6 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 **Today's Progress:** Solved 8 LeetCode problems. Watched MIT lecture on dynamic programming. 
 
 **Thoughts:**  I concentrated on "Dynamic programming". I don't like this type of problems, but they are so useful. One came at my Google interview. Also solved some "Strings" topic problems. I want to do more LeetCode + start my pet projects finally.
-<!--**Link to work:** None--> 
 
 ### Day 1: March 25, 2020
 **Today's Progress:** Solved 2 LeetCode problems. Read more on dynamic programming. Learned how to delete git remote link.
@@ -20,6 +19,8 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 **Today's Progress:** Solved 2 more LeetCode problems. Practiced Min heap problems.
 
 **Thoughts:** Min heap is a really useful data structure. I learned how to create and use it in Python. Also I have started my Codecademy computer science path. I hope it will help me to get a better grasp on data structures and algorithms.
+
+**Link to work:** [Merge k-sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/), [Meeting rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/)
 
 <!-- but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 **Link(s) to work:** [Calculator App](http://www.example.com/)
