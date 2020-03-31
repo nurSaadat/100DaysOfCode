@@ -40,6 +40,17 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 
 **Thoughts:** My first Leetcode contest and I managed to solve three problems out of four. Next time I want to solve all four. I want to finish Python recap quickly so I can do data structures soon.
 
+### Day 6: March 30, 2020 (Monday)
+**Today's Progress:** Solved two leetcode problems. Worked with Networkx library.
+
+**Thoughts:** You should be very careful with the version of the library that you are using. Documentation and function implementation may be very different. Solved some Leetcode problems that include strings and dynamic programming.
+
+**Link to work:** [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/), [Encode and Decode Strings](https://www.lintcode.com/problem/encode-and-decode-strings/description)
+
+### Day 7: March 31, 2020 (Tuesday)
+**Today's Progress:** Finished "Iterables". Did Codecademy project. Debugged research code. 
+
+**Thoughts:** Learned list compression and tuple opening. Useful Python commands: ```zip(list, list), list.sort(), sorted(list), list.count(item)```. Tomorrow will do Leetcode and advanced data structures in Python.
 
 <!-- but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 **Link(s) to work:** [Calculator App](http://www.example.com/)
