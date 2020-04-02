@@ -52,12 +52,20 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 
 **Thoughts:** Learned list compression and tuple opening. Useful Python commands: ```zip(list, list), list.sort(), sorted(list), list.count(item)```. Tomorrow will do Leetcode and advanced data structures in Python.
 
-### Day 7: April 1, 2020 (Wednesday)
+### Day 8: April 1, 2020 (Wednesday)
 **Today's Progress:** First day of Leetcode 30-days challenge. Started complex data structures. Debug research code.
 
 **Thoughts:** Easy problem on Leetcode, but I discovered for myself a new way to solve this problem by XOR operation. And it is faster than adding traverced numbers to the dictionary. Data structure reviewed - hash table. Updated research results table. No improvement for now, but I have some time to debug tomorrow.
 
 **Link to work:** [Single Number](https://leetcode.com/problems/single-number/)
+
+
+### Day 9: April 2, 2020 (Thursday)
+**Today's Progress:** Second day of Leetcode 30-days challenge. Finished data structures. Debug research code.
+
+**Thoughts:** Easy problem on Leetcode.Tried virtual contest and failed miserably. I definetely have to practice more.
+
+**Link to work:** [Happy Number](https://leetcode.com/problems/happy-number/)
 
 <!-- but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 **Link(s) to work:** [Calculator App](http://www.example.com/)
