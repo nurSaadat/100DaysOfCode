@@ -67,9 +67,8 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 
 **Link to work:** [Happy Number](https://leetcode.com/problems/happy-number/)
 
-<!-- but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-**Link(s) to work:** [Calculator App](http://www.example.com/)
-### Day 1: June 27, Monday
-***Today's Progress:** I've gone through many exercises on FreeCodeCamp.
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.--->
+### Day 10: April 3, 2020 (Friday)
+**Today's Progress:** Third day of Leetcode 30-days challenge. Debug research code. Finished research code. Learning graph theory: centrality.
+
+**Thoughts:** Decided to include centrality to the code. Exploring Networkx breadth first tree and more.
 
