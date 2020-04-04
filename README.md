@@ -77,6 +77,6 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 ### Day 11: April 4, 2020 (Saturday)
 **Today's Progress:** Fourth day of Leetcode 30-days challenge. Solved Leetcode problems.
 
-**Thoughts:** Fourth day of Leetcode challenge - still going strong. I expect to have more rigorous questions later in the challenge. Leetcode problems were mostly motivated by NU ACM Student Chapter's Leetcode sessions. Thanks to Ayan!
+**Thoughts:** My first Biweekly Leetcode contest and solved all problems. Solved one problem in Google Code Jam. Fourth day of Leetcode challenge - still going strong. I expect to have more rigorous questions later in the challenge. Leetcode problems were mostly motivated by NU ACM Student Chapter's Leetcode sessions. Thanks to Ayan!
 
 **Link to work:** [Move Zeroes](https://leetcode.com/problems/move-zeroes/), [Same Tree](https://leetcode.com/problems/same-tree/), [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/), [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/), [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/), [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/), [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
