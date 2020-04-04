@@ -68,7 +68,15 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 **Link to work:** [Happy Number](https://leetcode.com/problems/happy-number/)
 
 ### Day 10: April 3, 2020 (Friday)
-**Today's Progress:** Third day of Leetcode 30-days challenge. Debug research code. Finished research code. Learning graph theory: centrality.
+**Today's Progress:** Third day of Leetcode 30-days challenge. Debug research code. Finished research code. Learning graph theory: centrality. Codecademy: Python strings.
 
-**Thoughts:** Decided to include centrality to the code. Exploring Networkx breadth first tree and more.
+**Thoughts:** Decided to include centrality to the code. Exploring Networkx breadth first tree and more. 
 
+**Link to work:** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+### Day 11: April 4, 2020 (Saturday)
+**Today's Progress:** Fourth day of Leetcode 30-days challenge. Solved Leetcode problems.
+
+**Thoughts:** Fourth day of Leetcode challenge - still going strong. I expect to have more rigorous questions later in the challenge. Leetcode problems were mostly motivated by NU ACM Student Chapter's Leetcode sessions. Thanks to Ayan!
+
+**Link to work:** [Move Zeroes](https://leetcode.com/problems/move-zeroes/), [Same Tree](https://leetcode.com/problems/same-tree/), [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/), [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/), [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/), [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/), [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
