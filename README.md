@@ -80,3 +80,10 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 **Thoughts:** My first Biweekly Leetcode contest and solved all problems. Solved one problem in Google Code Jam. Fourth day of Leetcode challenge - still going strong. I expect to have more rigorous questions later in the challenge. Leetcode problems were mostly motivated by NU ACM Student Chapter's Leetcode sessions. Thanks to ACM!
 
 **Link to work:** [Move Zeroes](https://leetcode.com/problems/move-zeroes/), [Same Tree](https://leetcode.com/problems/same-tree/), [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/), [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/), [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/), [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/), [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+
+### Day 12: April 5, 2020 (Sunday)
+**Today's Progress:** Fifth day of Leetcode 30-days challenge.
+
+**Thoughts:** Solved Leetcode problems. 
+
+**Link to work:** [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/)
