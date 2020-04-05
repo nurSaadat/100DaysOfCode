@@ -84,6 +84,6 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 ### Day 12: April 5, 2020 (Sunday)
 **Today's Progress:** Fifth day of Leetcode 30-days challenge.
 
-**Thoughts:** Solved Leetcode problems. 
+**Thoughts:** Solved Leetcode problems. My second weekly contest.
 
 **Link to work:** [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/), [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/), [Longest Happy String](https://leetcode.com/submissions/detail/319954225/), [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/contest/weekly-contest-183/submissions/detail/319913306/)
