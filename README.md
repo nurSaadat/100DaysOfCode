@@ -59,7 +59,6 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 
 **Link to work:** [Single Number](https://leetcode.com/problems/single-number/)
 
-
 ### Day 9: April 2, 2020 (Thursday)
 **Today's Progress:** Second day of Leetcode 30-days challenge. Finished data structures. Debug research code.
 
@@ -87,3 +86,16 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 **Thoughts:** Solved Leetcode problems. My second weekly contest.
 
 **Link to work:** [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/), [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/), [Longest Happy String](https://leetcode.com/submissions/detail/319954225/), [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/contest/weekly-contest-183/submissions/detail/319913306/)
+
+### Day 13: April 6, 2020 (Monday)
+**Today's Progress:** Sixth day of Leetcode 30-days challenge. Solved some weekly problems.
+
+**Thoughts:** First day of class was tough. Slowly shifting to C++: one problem today.
+
+**Link to work:** [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/), [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/), [Hamming Distance](https://leetcode.com/problems/hamming-distance/), [Missing Number](https://leetcode.com/problems/missing-number/), [Single Number](https://leetcode.com/problems/single-number/)
+
+
+
+
+
+
