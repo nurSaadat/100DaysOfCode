@@ -94,6 +94,13 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 
 **Link to work:** [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/), [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/), [Hamming Distance](https://leetcode.com/problems/hamming-distance/), [Missing Number](https://leetcode.com/problems/missing-number/), [Single Number](https://leetcode.com/problems/single-number/)
 
+### Day 14: April 7, 2020 (Tuesday)
+**Today's Progress:** Seventh day of Leetcode 30-days challenge.
+
+**Thoughts:** Answered to some questions to my solutions, solved daily problem.  
+
+**Link to work:** [Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/), [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)
+
 
 
 
