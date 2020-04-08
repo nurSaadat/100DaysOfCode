@@ -101,7 +101,12 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 
 **Link to work:** [Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/), [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)
 
+### Day 15: April 8, 2020 (Wednesday)
+**Today's Progress:** New week of Leetcode 30-days challenge! Solved two problems on "Binary" topic. Refreshed binary shifting.
 
+**Thoughts:** Watched video why the adding without "+" works. Wow, this is amazing. Link to the video below.   
+
+**Link to work:** [Counting Bits](https://leetcode.com/problems/counting-bits/), [Reverse Bits](https://leetcode.com/problems/reverse-bits/), [Binary addition video](https://www.youtube.com/watch?v=qq64FrA2UXQ)
 
 
 
