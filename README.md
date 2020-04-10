@@ -108,6 +108,17 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 
 **Link to work:** [Counting Bits](https://leetcode.com/problems/counting-bits/), [Reverse Bits](https://leetcode.com/problems/reverse-bits/), [Binary addition video](https://www.youtube.com/watch?v=qq64FrA2UXQ)
 
+### Day 16: April 9, 2020 (Thursday)
+**Today's Progress:** Ninth day of Leetcode 30-days challenge. 
 
+**Thoughts:** Came up with the beautiful O(n) solution. 
 
+**Link to work:** [Backspace String Compare](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/529/week-2/3291/)
+
+### Day 17: April 10, 2020 (Friday)
+**Today's Progress:** Tenth day of Leetcode 30-days challenge.
+
+**Thoughts:**   
+
+**Link to work:** [Min Stack](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/529/week-2/3292/)
 
