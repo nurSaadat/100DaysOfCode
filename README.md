@@ -137,4 +137,7 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 **Link to work:**  [String Matching in an Array](https://leetcode.com/contest/weekly-contest-184/problems/string-matching-in-an-array/), [Queries on a Permutation With Key](https://leetcode.com/contest/weekly-contest-184/problems/queries-on-a-permutation-with-key/)
 
 
+### Day 20: May 22, 2020 (Friday)
+**Today's Progress:** Cpp course on coursera.
 
+**Thoughts:**  Problems are taking so much time. But I like to do them anyway, so no regrets.
