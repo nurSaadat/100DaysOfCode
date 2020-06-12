@@ -23,6 +23,8 @@ class Route{
         string source;
         string destination;
         int length;
+        void UpdateLength(){ length = ComputeDistance(source, destination); }
+        int ComputeDistance(const string& s, const string& d){ return 42; }
 };
 
 /* Struct */
