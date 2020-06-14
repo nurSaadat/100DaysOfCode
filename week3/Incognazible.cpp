@@ -34,3 +34,8 @@ class Incognizable
 //   Incognizable d = {0, 1};
 //   return 0;
 // }
+
+//acdb
+//acdb
+//acdbcde
+//abcedabcedf

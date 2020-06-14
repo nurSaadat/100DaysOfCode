@@ -136,8 +136,15 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 
 **Link to work:**  [String Matching in an Array](https://leetcode.com/contest/weekly-contest-184/problems/string-matching-in-an-array/), [Queries on a Permutation With Key](https://leetcode.com/contest/weekly-contest-184/problems/queries-on-a-permutation-with-key/)
 
-
 ### Day 20: May 22, 2020 (Friday)
 **Today's Progress:** Cpp course on coursera.
 
 **Thoughts:**  Problems are taking so much time. But I like to do them anyway, so no regrets.
+
+**Link to work** [Course](https://www.coursera.org/learn/c-plus-plus-white/home/welcome)
+
+### Day 21: June 14, 2020 (Sunday)
+**Today's Progress:** Cpp course on coursera.
+
+**Thoughts:**  Wow. Seniors at Yandex write such a clean code. Learned about standard I/O classes and file I/O classes. Practiced reading and writing with couple of problems. I want to finish the fourth week tomorrow. 
+
