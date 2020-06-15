@@ -1,9 +1,4 @@
 #include <iostream>
-#include <string>
-#include <iomanip>
-#include <map>
-#include <set>
-#include <vector>
 
 using namespace std;
 
@@ -23,16 +18,29 @@ class Rational {
             }
             else 
             {
+                if (denominator < 0)
+                {
+                    denominator *= -1;
+                    numerator *= -1;
+                }
+
+                bool is_negative = false;
+                if (numerator < 0)
+                {
+                    is_negative = true;
+                    numerator *= -1;
+                }
+
                 int gcd = GCD(numerator, denominator);
                 num = numerator / gcd;
-                denom = denominator / gcd;
-
-                if (denom < 0)
+                if (is_negative)
                 {
                     num *= -1;
                 }
+                denom = denominator / gcd;
             } 
         }
+
 
         int Numerator() const
         {
@@ -104,76 +112,35 @@ Rational operator-(const Rational& lhs, const Rational& rhs)
     }
 }
 
-Rational operator*(const Rational& lhs, const Rational& rhs)
-{
-    return Rational(lhs.Numerator() * rhs.Numerator(), lhs.Denominator() * rhs.Denominator());
-}
-
-Rational operator/(const Rational& lhs, const Rational& rhs)
-{
-    return Rational(lhs.Numerator() * rhs.Denominator(), lhs.Denominator() * rhs.Numerator());
-}
-
-istream& operator>>(istream& s, Rational& r)
-{
-    int num = r.Numerator();
-    int denom = r.Denominator();
-
-    if (s)
-    {       
-        s >> num;
-        s.ignore(1);
-        s >> denom;
-    }
-
-    r = Rational(num, denom);
-    return s;
-
-}
-
-ostream& operator<<(ostream& s, const Rational& r)
-{
-    s << r.Numerator() << '/' << r.Denominator();
-    return s;
-}
-
-bool operator<(const Rational& lhs, const Rational& rhs)
-{
-    if (lhs.Denominator() == rhs.Denominator())
-    {
-        return lhs.Numerator() < rhs.Numerator();
-    }
-    return lhs.Numerator() * rhs.Denominator() < rhs.Numerator() * lhs.Denominator();
-}
-
-
 int main() {
     {
-        const set<Rational> rs = {{1, 2}, {1, 25}, {3, 4}, {3, 4}, {1, 2}};
-        if (rs.size() != 3) {
-            cout << "Wrong amount of items in the set" << endl;
+        Rational r1(4, 6);
+        Rational r2(2, 3);
+        bool equal = r1 == r2;
+        if (!equal) {
+            cout << "4/6 != 2/3" << endl;
             return 1;
         }
+    }
 
-        vector<Rational> v;
-        for (auto x : rs) {
-            v.push_back(x);
-        }
-        if (v != vector<Rational>{{1, 25}, {1, 2}, {3, 4}}) {
-            cout << "Rationals comparison works incorrectly" << endl;
+    {
+        Rational a(2, 3);
+        Rational b(4, 3);
+        Rational c = a + b;
+        bool equal = c == Rational(2, 1);
+        if (!equal) {
+            cout << "2/3 + 4/3 != 2" << endl;
             return 2;
         }
     }
 
     {
-        map<Rational, int> count;
-        ++count[{1, 2}];
-        ++count[{1, 2}];
-
-        ++count[{2, 3}];
-
-        if (count.size() != 2) {
-            cout << "Wrong amount of items in the map" << endl;
+        Rational a(5, 7);
+        Rational b(2, 9);
+        Rational c = a - b;
+        bool equal = c == Rational(31, 63);
+        if (!equal) {
+            cout << "5/7 - 2/9 != 31/63" << endl;
             return 3;
         }
     }
