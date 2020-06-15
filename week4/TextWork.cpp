@@ -7,6 +7,25 @@ using namespace std;
 int
 main()
 {
+    return 0;
+}
+
+void TextWork2()
+{
+    ifstream input("input.txt");
+
+    double i;
+        
+    cout << fixed << setprecision(3);
+
+    while(input >> i)
+    {
+        cout << i << endl;
+    }
+}
+
+void TextWork1()
+{
     ifstream input("input.txt");
     ofstream output("output.txt");
 
@@ -18,5 +37,4 @@ main()
             output << str << endl;
         }
     }
-    return 0;
 }
