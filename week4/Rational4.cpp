@@ -20,14 +20,26 @@ class Rational {
             }
             else 
             {
+                if (denominator < 0)
+                {
+                    denominator *= -1;
+                    numerator *= -1;
+                }
+
+                bool is_negative = false;
+                if (numerator < 0)
+                {
+                    is_negative = true;
+                    numerator *= -1;
+                }
+
                 int gcd = GCD(numerator, denominator);
                 num = numerator / gcd;
-                denom = denominator / gcd;
-
-                if (denom < 0)
+                if (is_negative)
                 {
                     num *= -1;
                 }
+                denom = denominator / gcd;
             } 
         }
 

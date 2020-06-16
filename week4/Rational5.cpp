@@ -16,10 +16,6 @@ class Rational {
         }
         Rational(int numerator, int denominator)
         {
-            if (denominator == 0)
-            {
-                throw invalid_argument("Invalid argument");
-            }
             if (numerator == 0)
             {
                 num = 0;
@@ -81,7 +77,6 @@ class Rational {
         }
 };
 
-/* Equality */
 bool operator==(const Rational& lhs, const Rational& rhs)
 {
     if (lhs.Numerator() == rhs.Numerator() && lhs.Denominator() == rhs.Denominator())
@@ -94,7 +89,6 @@ bool operator==(const Rational& lhs, const Rational& rhs)
     }
 }
 
-/* Addition */
 Rational operator+(const Rational& lhs, const Rational& rhs)
 {
     if (rhs.Denominator() == lhs.Denominator())
@@ -109,7 +103,6 @@ Rational operator+(const Rational& lhs, const Rational& rhs)
     
 }
 
-/* Substraction */
 Rational operator-(const Rational& lhs, const Rational& rhs)
 {
     if (rhs.Denominator() == lhs.Denominator())
@@ -123,23 +116,16 @@ Rational operator-(const Rational& lhs, const Rational& rhs)
     }
 }
 
-/* Multiplication */
 Rational operator*(const Rational& lhs, const Rational& rhs)
 {
     return Rational(lhs.Numerator() * rhs.Numerator(), lhs.Denominator() * rhs.Denominator());
 }
 
-/* Division */
 Rational operator/(const Rational& lhs, const Rational& rhs)
 {
-    if (lhs.Denominator() * rhs.Numerator() == 0)
-    {
-        throw domain_error("Division by zero");
-    }
     return Rational(lhs.Numerator() * rhs.Denominator(), lhs.Denominator() * rhs.Numerator());
 }
 
-/* Input */
 istream& operator>>(istream& s, Rational& r)
 {
     int num = r.Numerator();
@@ -157,14 +143,12 @@ istream& operator>>(istream& s, Rational& r)
 
 }
 
-/* Output */
 ostream& operator<<(ostream& s, const Rational& r)
 {
     s << r.Numerator() << '/' << r.Denominator();
     return s;
 }
 
-/* Less */
 bool operator<(const Rational& lhs, const Rational& rhs)
 {
     if (lhs.Denominator() == rhs.Denominator())
@@ -175,45 +159,37 @@ bool operator<(const Rational& lhs, const Rational& rhs)
 }
 
 
-int 
-main() {
-    /* Reading */
-    Rational r1, r2;
-    char oper;
-
-    try 
+int main() {
     {
-        cin >> r1 >> oper >> r2;
-    
-        if (oper == '+')
-        {
-            cout << r1 + r2;
+        const set<Rational> rs = {{1, 2}, {1, 25}, {3, 4}, {3, 4}, {1, 2}};
+        if (rs.size() != 3) {
+            cout << "Wrong amount of items in the set" << endl;
+            return 1;
         }
 
-        if (oper == '-')
-        {
-            cout << r1 - r2;
+        vector<Rational> v;
+        for (auto x : rs) {
+            v.push_back(x);
         }
-
-        if (oper == '*')
-        {
-            cout << r1 * r2;
+        if (v != vector<Rational>{{1, 25}, {1, 2}, {3, 4}}) {
+            cout << "Rationals comparison works incorrectly" << endl;
+            return 2;
         }
-
-        if (oper == '/')
-        {
-            cout << r1 / r2;
-        }
-    } 
-    catch (invalid_argument&  ex)
-    {
-        cout << ex.what();
     }
-    catch (domain_error& ex)
+
     {
-        cout << ex.what();
+        map<Rational, int> count;
+        ++count[{1, 2}];
+        ++count[{1, 2}];
+
+        ++count[{2, 3}];
+
+        if (count.size() != 2) {
+            cout << "Wrong amount of items in the map" << endl;
+            return 3;
+        }
     }
-   
-    cout << endl;
+
+    cout << "OK" << endl;
     return 0;
 }
