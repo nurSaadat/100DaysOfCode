@@ -122,14 +122,14 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 
 **Link to work:** [Min Stack](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/529/week-2/3292/)
 
-### Day 18: April 11, 2020 (Friday)
+### Day 18: April 11, 2020 (Saturday)
 **Today's Progress:** Eleventh day of Leetcode 30-days challenge. Reviewed trees. Elegant binary solutions.
 
 **Thoughts:** I would never know, how beautiful binary is if not these sessions.
 
 **Link to work:** [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
-### Day 19: April 12, 2020 (Friday)
+### Day 19: April 12, 2020 (Sunday)
 **Today's Progress:** Leetcode contest. Solved 2/4 problems.
 
 **Thoughts:**  Ugh, hard questions. HTML problem just have eaten my time, ugh. But it is my third contest, not bad, hehe.
