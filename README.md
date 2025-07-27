@@ -2,43 +2,37 @@
 
 Credits to https://github.com/kallaway/100-days-of-code
 
-Well, I like to see my progress right here. What can I reach whithin 100 days? Let's see...
+***"Through the thorns, to the stars"***
 
-### Day 0: March 24, 2020 (Tuesday)
-**Today's Progress:** Solved 8 LeetCode problems. Watched MIT lecture on dynamic programming. 
+### Day 1: July 17, 2025 
+**Today's Progress:** Started tutorial for Google Calendar clone on Free Code Camp.
 
-**Thoughts:**  I concentrated on "Dynamic programming". I don't like this type of problems, but they are so useful. One came at my Google interview. Also solved some "Strings" topic problems. I want to do more LeetCode + start my pet projects finally.
+**Thoughts:**  Haven't used XAMPP since high school. It will be a nice way to brush up on the basics and learn something new.
 
-### Day 1: March 25, 2020 (Wednesday)
-**Today's Progress:** Solved 2 LeetCode problems. Read more on dynamic programming. Learned how to delete git remote link.
+### Day 2: July 18, 2025
+**Today's Progress:** Continuing Google Calendar tutorial. 
 
-**Thoughts:** I really struggle with dynamic programming. But solving more problems will help me to get better at it. It was interesting to understand that most of the time the brute-force solution to dynamic programming questions is recursion. Refreshed how to calculate space and time complexity, but still struggling. I may take an algo online course, it will help me to solve problems with more confidence. 
+**Thoughts:** Writing pure HTML feels fresh after using React for years. I am anticipating PHP part.
 
-### Day 2: March 26, 2020 (Thursday)
-**Today's Progress:** Solved 2 more LeetCode problems. Practiced Min heap problems.
+### Day 3: July 19, 2025
+**Today's Progress:** Continuing Google Calendar tutorial. 
 
-**Thoughts:** Min heap is a really useful data structure. I learned how to create and use it in Python. Also I have started my Codecademy computer science path. I hope it will help me to get a better grasp on data structures and algorithms.
+**Thoughts:** Now I better understand variables in a CSS file. CSS properties that I haven't used before: scroll-snap-type, scroll-snap-align, grid-template-columns. Animations are so much easier than in React Native.
 
-**Link to work:** [Merge k-sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/), [Meeting rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/)
+### Day 4: July 20, 2025
+**Today's Progress:** Continuing Google Calendar tutorial. 
 
-### Day 3: March 27, 2020 (Friday)
-**Today's Progress:** Completed Codecademy's "Introduction to programming" and half of "Development skills". Still exploring Netwokx Pyhton library.
+**Thoughts:** learned new way of describing complex CSS behaviour, for example .day:hover .day-overlay which means *when I hover day, do smth to day-overlay*
 
-**Thoughts:** Refreshing basic Python syntaxis knowledge was very useful. I learned that "touch" in the shell actually creates a new file. (I thought it creates something like a temporary image.) Refreshed the knowledge of the git version control system.
+### Day 5: July 21, 2025
+**Today's Progress:** Continuing Google Calendar tutorial. 
 
-**Link to work:** [Codecademy Computer Science course](https://www.codecademy.com/learn/paths/computer-science)
+**Thoughts:** Used PHPMyAdmin to configure tables for my project. I wonder if it is the same in production with PHP. Next I'd like to find a way to practice real life backend server configuration.
 
-### Day 4: March 28, 2020 (Saturday)
-**Today's Progress:** Completed Codecademy's "Development skills". Started "Flow Control". Solved Leetcode problems.
+### Day 6: July 22, 2025
+**Today's Progress:** Continuing Google Calendar tutorial. 
 
-**Thoughts:** It is very interesting to learn new things about the language that you use frequently. Today's Leetcode session showed me simpler solutions to "String" problems using indexes instead of strings themselves. 
-
-**Link to work:** [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/), [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-
-### Day 5: March 29, 2020 (Sunday)
-**Today's Progress:** Finished "Flow control". Paticipated in Leetcode contest.
-
-**Thoughts:** My first Leetcode contest and I managed to solve three problems out of four. Next time I want to solve all four. I want to finish Python recap quickly so I can do data structures soon.
+**Thoughts:** Last time I programmed in PHP in 2018, and I was trying to use Laravel. It feels different to write PHP after all this years of experience. I was surprised to rediscover the way you refer to the methods in PHP is using an arrow "->".
 
 ### Day 6: March 30, 2020 (Monday)
 **Today's Progress:** Solved two leetcode problems. Worked with Networkx library.
@@ -147,4 +141,6 @@ Well, I like to see my progress right here. What can I reach whithin 100 days? L
 **Today's Progress:** Cpp course on coursera.
 
 **Thoughts:**  Wow. Seniors at Yandex write such a clean code. Learned about standard I/O classes and file I/O classes. Practiced reading and writing with couple of problems. I want to finish the fourth week tomorrow. 
+
+### Day 
 
