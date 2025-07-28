@@ -19,7 +19,7 @@ Credits to https://github.com/kallaway/100-days-of-code
 ### Day 3: July 19, 2025
 **Today's Progress:** Continuing Google Calendar tutorial. Added some styles.
 
-**Thoughts:** Now I better understand variables in a CSS file. CSS properties that I haven't used before: scroll-snap-type, scroll-snap-align, grid-template-columns. Animations are so much easier than in React Native.
+**Thoughts:** Now I better understand variables in a CSS file. CSS properties that I haven't used before: `scroll-snap-type`, `scroll-snap-align`, `grid-template-columns`. Animations are so much easier than in React Native.
 
 ### Day 4: July 20, 2025
 **Today's Progress:** Continuing Google Calendar tutorial. Finished adding styles.
@@ -65,12 +65,12 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Link to work:** [Some reading on PHP](https://www.freecodecamp.org/news/the-php-handbook/#heading-how-to-setup-php)
 
-### Day 11: April 4, 2020 (Saturday)
-**Today's Progress:** Fourth day of Leetcode 30-days challenge. Solved Leetcode problems.
+### Day 12: July 28, 2025
+**Today's Progress:** Started Node.js tutorial, as I wished while doing the PHP tutorial.
 
-**Thoughts:** My first Biweekly Leetcode contest and solved all problems. Solved one problem in Google Code Jam. Fourth day of Leetcode challenge - still going strong. I expect to have more rigorous questions later in the challenge. Leetcode problems were mostly motivated by NU ACM Student Chapter's Leetcode sessions. Thanks to ACM!
+**Thoughts:** Brushing up on the basics is insane. I am so used to complex structures, that some simple things make me go wild. For example, `module.exports` statement, or using `require()` function to import not a module but a single function.
 
-**Link to work:** [Move Zeroes](https://leetcode.com/problems/move-zeroes/), [Same Tree](https://leetcode.com/problems/same-tree/), [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/), [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/), [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/), [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/), [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/), [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/), [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/), [Count Largest Group](https://leetcode.com/problems/count-largest-group/),  [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/),
+**Link to work:** [Free Code Camp Node.js tutorial on YouTube](https://youtu.be/RLtyhwFtXQA?si=KusscakNtL5MoihR)
 
 ### Day 12: April 5, 2020 (Sunday)
 **Today's Progress:** Fifth day of Leetcode 30-days challenge.
