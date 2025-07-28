@@ -68,7 +68,7 @@ Credits to https://github.com/kallaway/100-days-of-code
 ### Day 12: July 28, 2025
 **Today's Progress:** Started Node.js tutorial, as I wished while doing the PHP tutorial.
 
-**Thoughts:** Brushing up on the basics is insane. I am so used to complex structures, that some simple things make me go wild. For example, `module.exports` statement, or using `require()` function to import not a module but a single function.
+**Thoughts:** Brushing up on the basics is insane. I am so used to complex structures, that some simple things make me go wild. For example, `module.exports` statement, or using `require()` function to import not a module but a single function. Learned about CJS (CommonJS) and ESM (ECMAScript Modules) module systems and their specifications. Main difference: CJS runs synchronously, while ESM can run asynchronously.
 
 **Link to work:** [Free Code Camp Node.js tutorial on YouTube](https://youtu.be/RLtyhwFtXQA?si=KusscakNtL5MoihR)
 
