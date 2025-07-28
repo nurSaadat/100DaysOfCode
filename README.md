@@ -9,63 +9,61 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:**  Haven't used XAMPP since high school. It will be a nice way to brush up on the basics and learn something new.
 
+**Link to work:** [Free Code Camp tutorial on YouTube](https://youtu.be/pHMtbdGoP_g?si=cYmEmuhV37KGIUs6)
+
 ### Day 2: July 18, 2025
-**Today's Progress:** Continuing Google Calendar tutorial. 
+**Today's Progress:** Continuing Google Calendar tutorial. Finished creating main layout.
 
 **Thoughts:** Writing pure HTML feels fresh after using React for years. I am anticipating PHP part.
 
 ### Day 3: July 19, 2025
-**Today's Progress:** Continuing Google Calendar tutorial. 
+**Today's Progress:** Continuing Google Calendar tutorial. Added some styles.
 
 **Thoughts:** Now I better understand variables in a CSS file. CSS properties that I haven't used before: scroll-snap-type, scroll-snap-align, grid-template-columns. Animations are so much easier than in React Native.
 
 ### Day 4: July 20, 2025
-**Today's Progress:** Continuing Google Calendar tutorial. 
+**Today's Progress:** Continuing Google Calendar tutorial. Finished adding styles.
 
 **Thoughts:** learned new way of describing complex CSS behaviour, for example .day:hover .day-overlay which means *when I hover day, do smth to day-overlay*
 
 ### Day 5: July 21, 2025
-**Today's Progress:** Continuing Google Calendar tutorial. 
+**Today's Progress:** Continuing Google Calendar tutorial. Configured database table, wrote connection code in PHP.
 
 **Thoughts:** Used PHPMyAdmin to configure tables for my project. I wonder if it is the same in production with PHP. Next I'd like to find a way to practice real life backend server configuration.
 
 ### Day 6: July 22, 2025
-**Today's Progress:** Continuing Google Calendar tutorial. 
+**Today's Progress:** Continuing Google Calendar tutorial. Started writing APIs in PHP. 
 
 **Thoughts:** Last time I programmed in PHP in 2018, and I was trying to use Laravel. It feels different to write PHP after all this years of experience. I was surprised to rediscover the way you refer to the methods in PHP is using an arrow "->".
 
-### Day 6: March 30, 2020 (Monday)
-**Today's Progress:** Solved two leetcode problems. Worked with Networkx library.
+### Day 7: July 23, 2025
+**Today's Progress:** Continuing Google Calendar tutorial. Finished writing backend. 
 
-**Thoughts:** You should be very careful with the version of the library that you are using. Documentation and function implementation may be very different. Solved some Leetcode problems that include strings and dynamic programming.
+**Thoughts:** Surprised to see the table rows being returned for every type of request, but probably this is an oversimplification. Probably in the real world example, that would be a month by month request, or a window of three months being returned. I don't know how big the payload can be.
 
-**Link to work:** [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/), [Encode and Decode Strings](https://www.lintcode.com/problem/encode-and-decode-strings/description)
+**Link to work:** [Stackoverflow: Maximum HTTP GET request size](https://stackoverflow.com/questions/2659952/maximum-length-of-http-get-request)
 
-### Day 7: March 31, 2020 (Tuesday)
-**Today's Progress:** Finished "Iterables". Did Codecademy project. Debugged research code. 
+### Day 8: July 24, 2025
+**Today's Progress:** Continuing Google Calendar tutorial. Started writing logic in JS.
 
-**Thoughts:** Learned list compression and tuple opening. Useful Python commands: ```zip(list, list), list.sort(), sorted(list), list.count(item)```. Tomorrow will do Leetcode and advanced data structures in Python.
+**Thoughts:** I thought it will be boring to code in JavaScript, since I code in TypeScript every day, but I was wrong. It made me very uncomfortable to not have any types around to refer to, just matter of habit. It was an interesting way to see what a life could be without React. Imperative programming looks so rigid compared to the flow of declarative programming.
 
-### Day 8: April 1, 2020 (Wednesday)
-**Today's Progress:** First day of Leetcode 30-days challenge. Started complex data structures. Debug research code.
+### Day 9: July 25, 2025
+**Today's Progress:** Continuing Google Calendar tutorial. Finished writing logic.
 
-**Thoughts:** Easy problem on Leetcode, but I discovered for myself a new way to solve this problem by XOR operation. And it is faster than adding traverced numbers to the dictionary. Data structure reviewed - hash table. Updated research results table. No improvement for now, but I have some time to debug tomorrow.
+**Thoughts:** I wish modals in React Native were as easy as those I wrote 😭
 
-**Link to work:** [Single Number](https://leetcode.com/problems/single-number/)
+### Day 10: July 26, 2025
+**Today's Progress:** Continuing Google Calendar tutorial. Added alerts.
 
-### Day 9: April 2, 2020 (Thursday)
-**Today's Progress:** Second day of Leetcode 30-days challenge. Finished data structures. Debug research code.
+**Thoughts:** Noticed that alerts were missing from the tutorial video. 
 
-**Thoughts:** Easy problem on Leetcode.Tried virtual contest and failed miserably. I definetely have to practice more.
+### Day 11: July 27, 2025
+**Today's Progress:** Debugging Google Calendar tutorial.
 
-**Link to work:** [Happy Number](https://leetcode.com/problems/happy-number/)
+**Thoughts:** The final website wasn't showing any events, turned out to be a simple string formatting problem. Noticed and fixed a couple of other bugs.
 
-### Day 10: April 3, 2020 (Friday)
-**Today's Progress:** Third day of Leetcode 30-days challenge. Debug research code. Finished research code. Learning graph theory: centrality. Codecademy: Python strings.
-
-**Thoughts:** Decided to include centrality to the code. Exploring Networkx breadth first tree and more. 
-
-**Link to work:** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+**Link to work:** [Some reading on PHP](https://www.freecodecamp.org/news/the-php-handbook/#heading-how-to-setup-php)
 
 ### Day 11: April 4, 2020 (Saturday)
 **Today's Progress:** Fourth day of Leetcode 30-days challenge. Solved Leetcode problems.
