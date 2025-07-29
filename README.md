@@ -72,10 +72,10 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Link to work:** [Free Code Camp Node.js tutorial on YouTube](https://youtu.be/RLtyhwFtXQA?si=KusscakNtL5MoihR)
 
-### Day 12: April 5, 2020 (Sunday)
-**Today's Progress:** Fifth day of Leetcode 30-days challenge.
+### Day 13: July 29, 2025
+**Today's Progress:** Continue Node.js tutorial.
 
-**Thoughts:** Solved Leetcode problems. My second weekly contest.
+**Thoughts:** Studying the basics of importing modules, probably next time shhould be more specific to find a backend project tutorial.
 
 **Link to work:** [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/), [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/), [Longest Happy String](https://leetcode.com/submissions/detail/319954225/), [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/contest/weekly-contest-183/submissions/detail/319913306/)
 
