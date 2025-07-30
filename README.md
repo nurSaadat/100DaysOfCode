@@ -77,14 +77,10 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:** Studying the basics of importing modules, probably next time shhould be more specific to find a backend project tutorial.
 
-**Link to work:** [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/), [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/), [Longest Happy String](https://leetcode.com/submissions/detail/319954225/), [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/contest/weekly-contest-183/submissions/detail/319913306/)
+### Day 14: July 30, 2025
+**Today's Progress:** Continue Node.js tutorial. `events` and `readline` modules. 
 
-### Day 13: April 6, 2020 (Monday)
-**Today's Progress:** Sixth day of Leetcode 30-days challenge. Solved some weekly problems.
-
-**Thoughts:** First day of class was tough. Slowly shifting to C++: one problem today.
-
-**Link to work:** [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/), [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/), [Hamming Distance](https://leetcode.com/problems/hamming-distance/), [Missing Number](https://leetcode.com/problems/missing-number/), [Single Number](https://leetcode.com/problems/single-number/)
+**Thoughts:** I haven't used those modules before, as I never needed them while doing frontend. Learning new things is fun!
 
 ### Day 14: April 7, 2020 (Tuesday)
 **Today's Progress:** Seventh day of Leetcode 30-days challenge.
