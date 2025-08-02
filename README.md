@@ -75,33 +75,27 @@ Credits to https://github.com/kallaway/100-days-of-code
 ### Day 13: July 29, 2025
 **Today's Progress:** Continue Node.js tutorial.
 
-**Thoughts:** Studying the basics of importing modules, probably next time shhould be more specific to find a backend project tutorial.
+**Thoughts:** Studying the basics of importing modules, probably next time should be more specific to find a backend project tutorial.
 
 ### Day 14: July 30, 2025
 **Today's Progress:** Continue Node.js tutorial. `events` and `readline` modules. 
 
 **Thoughts:** I haven't used those modules before, as I never needed them while doing frontend. Learning new things is fun!
 
-### Day 14: April 7, 2020 (Tuesday)
-**Today's Progress:** Seventh day of Leetcode 30-days challenge.
+### Day 15: July 31,2025
+**Today's Progress:** Continue Node.js tutorial. `readline` module
 
-**Thoughts:** Answered to some questions to my solutions, solved daily problem.  
+**Thoughts:** Learned to take user's input, used methods sunch as `question()`, `prompt()`, `on()`.
 
-**Link to work:** [Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/), [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)
+### Day 16: August 1, 2025
+**Today's Progress:** Continue Node.js tutorial. `fs` module
 
-### Day 15: April 8, 2020 (Wednesday)
-**Today's Progress:** New week of Leetcode 30-days challenge! Solved two problems on "Binary" topic. Refreshed binary shifting.
+**Thoughts:** Started working with the file system. `fs` methods are asynchronous, so while testing I was just commenting out the part of the code I didn't want to work. I find the error handling callback quite repetitive.
 
-**Thoughts:** Watched video why the adding without "+" works. Wow, this is amazing. Link to the video below.   
+### Day 17: August 2, 2025
+**Today's Progress:** Continue Node.js tutorial. Continuing with `fs` module
 
-**Link to work:** [Counting Bits](https://leetcode.com/problems/counting-bits/), [Reverse Bits](https://leetcode.com/problems/reverse-bits/), [Binary addition video](https://www.youtube.com/watch?v=qq64FrA2UXQ)
-
-### Day 16: April 9, 2020 (Thursday)
-**Today's Progress:** Ninth day of Leetcode 30-days challenge. 
-
-**Thoughts:** Came up with the beautiful O(n) solution. 
-
-**Link to work:** [Backspace String Compare](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/529/week-2/3291/)
+**Thoughts:** Explored the callback way of dealing with the asynchronous nature of `fs` methods. Started working with streams, they have callbacks too, how wonderful!
 
 ### Day 17: April 10, 2020 (Friday)
 **Today's Progress:** Tenth day of Leetcode 30-days challenge.
