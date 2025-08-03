@@ -97,12 +97,10 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:** Explored the callback way of dealing with the asynchronous nature of `fs` methods. Started working with streams, they have callbacks too, how wonderful!
 
-### Day 17: April 10, 2020 (Friday)
-**Today's Progress:** Tenth day of Leetcode 30-days challenge.
+### Day 18: August 3, 2025
+**Today's Progress:** Continue Node.js tutorial. Creating my server.
 
-**Thoughts:** Bruteforce solution. Reviewed binary problem solutions as I will present one problem tomorrow. 
-
-**Link to work:** [Min Stack](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/529/week-2/3292/)
+**Thoughts:** I learned a lot of things today. I am starting from basics, and NoobCoder is very good at explaining them. I worked with `path`, `express` modules. Learned what Express is (it is a framework, an abstraction on top of Node.js, helps writing server code faster). Was exciting to parce some data from the forms and do some silly stuff. I will try to find more tutorials that involve communication with the database though.
 
 ### Day 18: April 11, 2020 (Saturday)
 **Today's Progress:** Eleventh day of Leetcode 30-days challenge. Reviewed trees. Elegant binary solutions.
