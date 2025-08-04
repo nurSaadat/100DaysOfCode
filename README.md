@@ -102,12 +102,10 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:** I learned a lot of things today. I am starting from basics, and NoobCoder is very good at explaining them. I worked with `path`, `express` modules. Learned what Express is (it is a framework, an abstraction on top of Node.js, helps writing server code faster). Was exciting to parce some data from the forms and do some silly stuff. I will try to find more tutorials that involve communication with the database though.
 
-### Day 18: April 11, 2020 (Saturday)
-**Today's Progress:** Eleventh day of Leetcode 30-days challenge. Reviewed trees. Elegant binary solutions.
+### Day 19: August 4, 2025
+**Today's Progress:** Finished Node.js tutorial!
 
-**Thoughts:** I would never know, how beautiful binary is if not these sessions.
-
-**Link to work:** [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+**Thoughts:** Really wanted to finish with this tutorial, it is quite old and not everything works as in tutorial (some modules has changed their interfaces). I even posted a comment to the video with the updated snippet. It was nice to write a simple middleware, I immediately remembered axios middlewares. Also it was nice to practice using different modules for backend tasks.
 
 ### Day 19: April 12, 2020 (Sunday)
 **Today's Progress:** Leetcode contest. Solved 2/4 problems.
