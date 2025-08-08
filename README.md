@@ -107,12 +107,12 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:** Really wanted to finish with this tutorial, it is quite old and not everything works as in tutorial (some modules has changed their interfaces). I even posted a comment to the video with the updated snippet. It was nice to write a simple middleware, I immediately remembered axios middlewares. Also it was nice to practice using different modules for backend tasks.
 
-### Day 19: April 12, 2020 (Sunday)
-**Today's Progress:** Leetcode contest. Solved 2/4 problems.
+### Day 20, August 5, 2025
+**Today's Progress:** Downloaded Postgres, tested connecting to Postgres database.
 
-**Thoughts:**  Ugh, hard questions. HTML problem just have eaten my time, ugh. But it is my third contest, not bad, hehe.
+**Thoughts:** Finally started working with something more up to date. The tutorial describes version 16, while version 17 is released already. Maybe I can submit some updates to the documentation.
 
-**Link to work:**  [String Matching in an Array](https://leetcode.com/contest/weekly-contest-184/problems/string-matching-in-an-array/), [Queries on a Permutation With Key](https://leetcode.com/contest/weekly-contest-184/problems/queries-on-a-permutation-with-key/)
+**Link to work:** [Neon Postgres tutorial](https://neon.com/postgresql/postgresql-getting-started/connect-to-postgresql-database)
 
 ### Day 20: May 22, 2020 (Friday)
 **Today's Progress:** Cpp course on coursera.
