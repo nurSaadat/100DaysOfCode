@@ -121,10 +121,9 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Link to work** [Neon tutorial: Postgres SELECT](https://neon.com/postgresql/postgresql-tutorial/postgresql-select)
 
-### Day 21: June 14, 2020 (Sunday)
-**Today's Progress:** Cpp course on coursera.
+### Day 22: August 7, 2025
+**Today's Progress:** Learned `ORDER BY` statement.
 
-**Thoughts:**  Wow. Seniors at Yandex write such a clean code. Learned about standard I/O classes and file I/O classes. Practiced reading and writing with couple of problems. I want to finish the fourth week tomorrow. 
-
+**Thoughts:**  Was interesting to learn about options `NULLS FIRST` and `NULLS LAST`.
 ### Day 
 
