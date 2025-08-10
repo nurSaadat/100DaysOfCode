@@ -114,12 +114,12 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Link to work:** [Neon Postgres tutorial](https://neon.com/postgresql/postgresql-getting-started/connect-to-postgresql-database)
 
-### Day 20: May 22, 2020 (Friday)
-**Today's Progress:** Cpp course on coursera.
+### Day 21: August 6, 2025
+**Today's Progress:** Learned `SELECT` statement.
 
-**Thoughts:**  Problems are taking so much time. But I like to do them anyway, so no regrets.
+**Thoughts:** Fisrt time seeing the possibility to add column alias and concatenation operator `||` to concatenate results from two different columns.
 
-**Link to work** [Course](https://www.coursera.org/learn/c-plus-plus-white/home/welcome)
+**Link to work** [Neon tutorial: Postgres SELECT](https://neon.com/postgresql/postgresql-tutorial/postgresql-select)
 
 ### Day 21: June 14, 2020 (Sunday)
 **Today's Progress:** Cpp course on coursera.
