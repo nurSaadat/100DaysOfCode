@@ -125,5 +125,12 @@ Credits to https://github.com/kallaway/100-days-of-code
 **Today's Progress:** Learned `ORDER BY` statement.
 
 **Thoughts:**  Was interesting to learn about options `NULLS FIRST` and `NULLS LAST`.
-### Day 
+
+### Day 23: August 8, 2025
+**Today's Progress:** Learned `SELECT DISTINCT` statement.
+
+**Thoughts:** Reminded myself how to switch databases using `\c database_name` command. Learned how to amend commit author.
+
+
+
 
