@@ -131,6 +131,15 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:** Reminded myself how to switch databases using `\c database_name` command. Learned how to amend commit author.
 
+### Day 24: August 9, 2025
+**Today's Progress:** Learned `WHERE` statement.
+
+**Thoughts:** Refreshed SQL statements to make smarter selections. Learned that `%` is a wild card for an SQL query.
+
+### Day 25: August 10, 2025
+**Today's Progress:** I remadee my profile header with some new animated features.
+
+**Thoughts:** Based on statistics, I am C# coder, which is not qiute right. Need to contribute and write more typescript stuff and host it on my domain.
 
 
 
