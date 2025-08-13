@@ -141,5 +141,9 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:** Based on statistics, I am C# coder, which is not qiute right. Need to contribute and write more typescript stuff and host it on my domain.
 
+### Day 26: August 11, 2025
+**Today's Progress:** Studied `OR` and `AND` operators.
+
+**Thoughts:** SQL has a third logical value which is `null`. It makes logical tables more complex.
 
 
