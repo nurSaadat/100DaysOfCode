@@ -146,4 +146,9 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:** SQL has a third logical value which is `null`. It makes logical tables more complex.
 
+### Day 27: August 12, 2025
+**Today's Progress:** Studied `LIMIT`, `OFFSET`, and `FETCH` clauses.
+
+**Thoughts:** `FETCH` is an SQL standard, while `LIMIT` is not. Although `LIMIT` is supported, it is not recommended to use it to make a query compatible with other database management systems.
+
 
