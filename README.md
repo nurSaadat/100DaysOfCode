@@ -151,4 +151,8 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:** `FETCH` is an SQL standard, while `LIMIT` is not. Although `LIMIT` is supported, it is not recommended to use it to make a query compatible with other database management systems.
 
+### Day 28: August 13, 2025
+**Today's Progress:** Studied `SELECT IN` operator.
+
+**Thoughts:** Learned cast operator `::`.
 
