@@ -156,13 +156,17 @@ Credits to https://github.com/kallaway/100-days-of-code
 
 **Thoughts:** Learned cast operator `::`.
 
-### Day 28: August 14, 2025
+### Day 29: August 14, 2025
 **Today's Progress:** Studied `LIKE` and `ILIKE` operators.
 
 **Thoughts:** Learned also `ESCAPE` operator, and that there is another way to write `LIKE` operator with ~~. Found another wildcard character `_` that matches any single character. For example `_bc` would match `abc`, but not `aabc`.
 
-### Day 28: August 15, 2025
+### Day 30: August 15, 2025
 **Today's Progress:** Studied `IS NULL` operator.
 
 **Thoughts:** Null is indeed a  very tricky value. Also it is not equal to empty string, while looking the same is you don't explicitly run command to make it 'NULL'.
 
+### Day 31: August 16, 2025
+**Today's Progress:** Studied Leetcode problems just to stay sharp.
+
+**Thoughts:** Counter object returns dict. `join` is a method of a string, not of the array. Heap is a data structure that is implemented in Python by `heapq` library: `heappush(heap, element)`, `heappop(heap)`. 
