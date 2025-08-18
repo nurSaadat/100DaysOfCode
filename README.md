@@ -170,3 +170,10 @@ Credits to https://github.com/kallaway/100-days-of-code
 **Today's Progress:** Studied Leetcode problems just to stay sharp.
 
 **Thoughts:** Counter object returns dict. `join` is a method of a string, not of the array. Heap is a data structure that is implemented in Python by `heapq` library: `heappush(heap, element)`, `heappop(heap)`. 
+
+### Day 32: August 17, 2025
+**Today's Progress:** Studied Leetcode problems.
+
+**Thoughts:** Got reminded of object constructors that are used as type converters, such as `int()` and `str()`. Also Python specific functions `isalpha()` and `isnumeric()`. 
+
+
