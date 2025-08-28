@@ -137,14 +137,14 @@ Credits to https://github.com/kallaway/100-days-of-code
 **Thoughts:** Refreshed SQL statements to make smarter selections. Learned that `%` is a wild card for an SQL query.
 
 ### Day 25: August 10, 2025
-**Today's Progress:** I remadee my profile header with some new animated features.
+**Today's Progress:** I remade my profile header with some new animated features.
 
 **Thoughts:** Based on statistics, I am C# coder, which is not qiute right. Need to contribute and write more typescript stuff and host it on my domain.
 
 ### Day 26: August 11, 2025
 **Today's Progress:** Studied `OR` and `AND` operators.
 
-**Thoughts:** SQL has a third logical value which is `null`. It makes logical tables more complex.
+**Thoughts:** SQL has a third logical value which is `null`. It makes logical tables more complex. Contributed new tables.
 
 ### Day 27: August 12, 2025
 **Today's Progress:** Studied `LIMIT`, `OFFSET`, and `FETCH` clauses.
@@ -175,5 +175,47 @@ Credits to https://github.com/kallaway/100-days-of-code
 **Today's Progress:** Studied Leetcode problems.
 
 **Thoughts:** Got reminded of object constructors that are used as type converters, such as `int()` and `str()`. Also Python specific functions `isalpha()` and `isnumeric()`. 
+
+### Day 33: August 20, 2025
+**Today's Progress:** Learned how to write transaction in a database using Sequelize. It is a promise-based Object Relational Mapper (ORM) for Node.js.
+
+**Thoughts:** Was extra scared, used ChatGPT, but at the end was proud to learn something new. 
+
+### Day 34: August 21, 2025
+**Today's Progress:** Revised table alias using Neon documentation.
+
+**Thoughts:** I didn't know that referring to a table columnis is called `qualifying`, and referring to them as `table.column` is called `fully qualifying`. 
+
+### Day 35: August 22, 2025
+**Today's Progress:** Practiced writing complex queries on my own using some example databases.
+
+**Thoughts:** Practices using aliases and writing a query within a query.
+
+### Day 36: August 23, 2025
+**Today's Progress:** Revised `JOIN` operation using Neon documentation.
+
+**Thoughts:** Had nothing to contribute, but the image at the end of the article looks suspiciously small.
+
+### Day 36: August 24, 2025
+**Today's Progress:** Revised parameter vs argument when studying `Array.prototype.reduce()` documentation, wrote an article about it.
+
+**Thoughts:** Looks like basic stuff, but it makes sense to know the difference, especially when you are talking to people who know it.
+
+### Day 36: August 25, 2025
+**Today's Progress:** Implementing Javascript functions: Array.prototype.reduce. Wrote an article about it.
+
+**Thoughts:** It expects a lot of parameters, and it was interesting to try to pass every test case. 
+
+### Day 36: August 26, 2025
+**Today's Progress:** Implementing JavaScripts functions: Promise.any, Promise.all.
+
+**Thoughts:** Was interesting to learn about the edge cases. For example, for Promise.all the empty array will resolve immediately, but for the Promise.any it will return error. 
+
+### Day 36: August 27, 2025
+**Today's Progress:** Revising React.
+
+**Thoughts:** OMG, I forgot how to write plain HTML. Also coming back to writing some CSS code.
+
+**Link to work** [Learn React](https://react.dev/learn)
 
 
