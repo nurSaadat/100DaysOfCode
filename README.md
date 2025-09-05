@@ -212,10 +212,42 @@ Credits to https://github.com/kallaway/100-days-of-code
 **Thoughts:** Was interesting to learn about the edge cases. For example, for Promise.all the empty array will resolve immediately, but for the Promise.any it will return error. 
 
 ### Day 36: August 27, 2025
-**Today's Progress:** Revising React.
+**Today's Progress:** Revising React. Coded a TODO list application from the react learning documentation.
 
 **Thoughts:** OMG, I forgot how to write plain HTML. Also coming back to writing some CSS code.
 
 **Link to work** [Learn React](https://react.dev/learn)
 
+### Day 37: August 28, 2025
+**Today's Progress:** Revising React. Coded a TODO list again, this time in great front end website. Also build a contact form.
 
+**Thoughts:** ecame more confident in my skills. Learned about accessibility labels.
+
+### Day 38: August 29, 2025
+**Today's Progress:** Revising React. Built a Holy Grail website layout and practiced showing different tabs.
+
+**Thoughts:** The tabs exercise was easy, but Holy Grail was more challenging as I forgot how to write styles in CSS.
+
+### Day 39: August 30, 2025
+**Today's Progress:** Writing implementation for `debounce()` and `throttle()` functions in pure JS.
+
+**Thoughts:** Practicing to write known functions from scratch allows to understand the inner working of the function much better. Also refreshed some fundamental concepts.
+
+**Link to work** [solid article on medium](https://medium.com/@arafatDU/mastering-react-app-testing-with-vitest-and-react-testing-library-7e5b6d1ec88c)
+
+### Day 40: August 31, 2025
+**Today's Progress:** Practicing Vitest.
+
+**Thoughts:** Got annoyed trying to configure correct environment in CoderPad sandbox. It had node version 16, old types and React. Nothing wanted to update normally, so after successfully following a tutorial and a half, I decided: tomorrow I will configure environment locally. Also I will write my own article specifying all library versions or leaving the link to github repo, otherwise it is impossible to follow old tutorials.
+
+**Link to work** [solid article on medium](https://medium.com/@arafatDU/mastering-react-app-testing-with-vitest-and-react-testing-library-7e5b6d1ec88c)
+
+### Day 41: September 1, 2025
+**Today's Progress:** Practicing Vitest.
+
+**Thoughts:** Finally everything works smoothly in a local environment with super fresh library versions. I learned and wrote test for App.tsx loading, for UI components and for hooks.
+
+### Day 42: September 2, 2025
+**Today's Progress:** Working on React.
+
+**Thoughts:** Sometimes the hardest part of writing React program is not writing correct React, it is understanding the data structure that comes from backend.
