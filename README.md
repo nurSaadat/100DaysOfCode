@@ -251,3 +251,8 @@ Credits to https://github.com/kallaway/100-days-of-code
 **Today's Progress:** Working on React.
 
 **Thoughts:** Sometimes the hardest part of writing React program is not writing correct React, it is understanding the data structure that comes from backend.
+
+### Day 43: September 3, 2025
+**Today's Progress:** First endpoint with Fastify framework.
+
+**Thoughts:** It is not that hard, but it is easy when you just need to write simple endpoints. I guess I will continue practicing Vitest or will start working with Detox for testing.
